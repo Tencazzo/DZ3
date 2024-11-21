@@ -1,0 +1,14 @@
+C:\Users\Сергей_2\source\repos\DZ3\bin\Debug\net8.0\Consoleapp1.exe
+C:\Users\Сергей_2\source\repos\DZ3\bin\Debug\net8.0\Consoleapp1.deps.json
+C:\Users\Сергей_2\source\repos\DZ3\bin\Debug\net8.0\Consoleapp1.runtimeconfig.json
+C:\Users\Сергей_2\source\repos\DZ3\bin\Debug\net8.0\Consoleapp1.dll
+C:\Users\Сергей_2\source\repos\DZ3\bin\Debug\net8.0\Consoleapp1.pdb
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\Consoleapp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\Consoleapp1.AssemblyInfoInputs.cache
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\Consoleapp1.AssemblyInfo.cs
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\Consoleapp1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\Consoleapp1.dll
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\refint\Consoleapp1.dll
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\Consoleapp1.pdb
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\Consoleapp1.genruntimeconfig.cache
+C:\Users\Сергей_2\source\repos\DZ3\obj\Debug\net8.0\ref\Consoleapp1.dll
